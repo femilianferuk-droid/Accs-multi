@@ -1,0 +1,7 @@
+aiogram>=3.0.0
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+telethon>=1.32
+yoomoney>=0.1
+aiohttp>=3.9
+python-dotenv>=1.0
